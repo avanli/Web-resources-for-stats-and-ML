@@ -47,7 +47,7 @@
 
 [Spatial Data Science](https://r-spatial.org/book/07-Introsf.html)
 
-[Geospatial Health Data Modeling (Moraga)] (https://www.paulamoraga.com/book-geospatial/)
+[Geospatial Health Data Modeling (Moraga)](https://www.paulamoraga.com/book-geospatial/)
 
 ## CAUSAL INFERENCE
 
